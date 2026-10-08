@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="assets/store-banner.png">
 # 🛍️ Aura Store
 
 ### Android App
